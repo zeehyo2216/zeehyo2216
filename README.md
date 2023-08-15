@@ -15,5 +15,5 @@ My personal goal of programming is automation and reduct of repetition!
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 ![](https://img.shields.io/badge/Kubernetes-326C25?style=flat-square&logo=Java&logoColor=white)
 #### More about me
-[![Resume Badge](https://img.shields.io/badge/Resume-9065B0?style=flat-square&logo=iTerm2&link=https://zeehyo.notion.site/zeehyo/f256efa8baf24fdcb093852d35c56ec2)](https://zeehyo.notion.site/zeehyo/f256efa8baf24fdcb093852d35c56ec2)
+[![Resume Badge](https://img.shields.io/badge/Resume-535D6C?style=flat-square&logo=ReadMe&link=https://zeehyo.notion.site/zeehyo/f256efa8baf24fdcb093852d35c56ec2)](https://zeehyo.notion.site/zeehyo/f256efa8baf24fdcb093852d35c56ec2)
 <a href="https://velog.io/@zeehyo2216" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
